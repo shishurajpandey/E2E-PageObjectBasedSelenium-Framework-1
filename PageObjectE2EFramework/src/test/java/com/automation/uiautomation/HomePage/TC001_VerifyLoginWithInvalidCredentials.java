@@ -19,6 +19,7 @@ public class TC001_VerifyLoginWithInvalidCredentials extends TestBase{
 	{
 		log.info("*********8Starting Test*********");
 		init(); 
+		log.info("*********Browser Started*********");
 		
 	}
 	
