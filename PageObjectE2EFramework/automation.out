@@ -1,0 +1,18 @@
+2017-09-10 20:45:04 INFO  TC001_VerifyLoginWithInvalidCredentials:29 - Login To Application with
+2017-09-10 20:45:04 INFO  HomePage:34 - login with given user id and password
+2017-09-10 20:45:15 INFO  HomePage:39 - login successful
+2017-09-10 20:45:15 INFO  HomePage:44 - Returned invalid text
+2017-09-10 20:45:15 INFO  TC001_VerifyLoginWithInvalidCredentials:37 - *********Closing Browser*********
+2017-09-11 00:19:29 INFO  TestBase:26 - Opening Browser:firefox
+2017-09-11 00:19:41 INFO  TestBase:45 - Placing url in Browser:http://automationpractice.com/
+2017-09-11 00:19:53 INFO  TestBase:47 - Maximising Windows
+2017-09-11 00:19:53 INFO  TC001_VerifyLoginWithInvalidCredentials:29 - Login To Application with
+2017-09-11 00:19:53 INFO  HomePage:37 - login with given user id and password
+2017-09-11 00:20:06 INFO  HomePage:42 - login successful
+2017-09-11 00:20:06 INFO  HomePage:47 - Returned invalid text
+2017-09-11 00:20:06 INFO  TC001_VerifyLoginWithInvalidCredentials:37 - *********Closing Browser*********
+2017-09-11 00:25:29 INFO  TC001_VerifyLoginWithInvalidCredentials:29 - Login To Application with
+2017-09-11 00:25:29 INFO  HomePage:37 - login with given user id and password
+2017-09-11 00:25:36 INFO  HomePage:42 - login successful
+2017-09-11 00:25:36 INFO  HomePage:47 - Returned invalid text
+2017-09-11 00:25:36 INFO  TC001_VerifyLoginWithInvalidCredentials:37 - *********Closing Browser*********

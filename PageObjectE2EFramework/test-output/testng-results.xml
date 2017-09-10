@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="61171" started-at="2017-09-10T18:54:36Z" finished-at="2017-09-10T18:55:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="61171" started-at="2017-09-10T18:54:36Z" finished-at="2017-09-10T18:55:37Z">
+      <class name="com.automation.uiautomation.HomePage.TC001_VerifyLoginWithInvalidCredentials">
+        <test-method status="PASS" signature="testSetup()[pri:0, instance:com.automation.uiautomation.HomePage.TC001_VerifyLoginWithInvalidCredentials@42dafa95]" name="testSetup" is-config="true" duration-ms="52535" started-at="2017-09-11T00:24:36Z" finished-at="2017-09-11T00:25:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetup -->
+        <test-method status="PASS" signature="loginWithInvalidCredentials()[pri:0, instance:com.automation.uiautomation.HomePage.TC001_VerifyLoginWithInvalidCredentials@42dafa95]" name="loginWithInvalidCredentials" duration-ms="7483" started-at="2017-09-11T00:25:29Z" finished-at="2017-09-11T00:25:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithInvalidCredentials -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.automation.uiautomation.HomePage.TC001_VerifyLoginWithInvalidCredentials@42dafa95]" name="endTest" is-config="true" duration-ms="1116" started-at="2017-09-11T00:25:36Z" finished-at="2017-09-11T00:25:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.automation.uiautomation.HomePage.TC001_VerifyLoginWithInvalidCredentials -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
